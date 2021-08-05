@@ -1,0 +1,20 @@
+/* Initialisation */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+p {
+  color: orangered;
+}
+
+p {
+  color: blue;
+}
+
+div {
+  height: 100px;
+  width: 100px;
+  background-color: orangered;
+  border: 1px solid black;
+}
